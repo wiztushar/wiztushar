@@ -3,8 +3,22 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/wiztushar/count.svg" />
 </p>
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{wiztushar}/count.svg" alt="wiztushar :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :smile:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiztushar&langs_count=10&theme=tokyonight&layout=compact" alt="wiztushar :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=wiztushar&show_icons=true&theme=synthwave" alt="wiztushar :: Profile Stats" /></p>
 <!--
 **wiztushar/wiztushar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
