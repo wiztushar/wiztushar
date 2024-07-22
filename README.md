@@ -2,15 +2,12 @@
 
 
 <p align="center"> 
-  Visitor count<br>
+  Visitor count :eyes:<br>
   <img src="https://profile-counter.glitch.me/wiztushar/count.svg" />
 </p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{wiztushar}/count.svg" alt="wiztushar :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :smile:</h4>
 
